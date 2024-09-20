@@ -1,38 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 .title{
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
 }
 
 p{
-    font-family: "Marcellus", serif;
+    font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
 li{
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-    font-size: 0.9rem;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 350;
+  font-style: normal;
+  padding-right: 1.5rem;
+
 }
 
 h1{
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
 }
 
 h2{
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
 }
 
 h3{
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }

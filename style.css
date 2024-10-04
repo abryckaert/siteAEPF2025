@@ -1,66 +1,60 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-
-.title{
+.title {
     font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
-p{
+p {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
-li{
+li {
     font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 350;
-  font-style: normal;
-  padding-right: 1.5rem;
-  color: white;
-
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    padding-right: 1.5rem;
+    color: white;
 }
 
-h1{
+h1 {
     font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
-h2{
+h2 {
     font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
-h3{
+h3 {
     font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
+
 
 /* Style pour la navbar */
+
 .navbar-nav .nav-link {
-  color: white !important;
+    color: white !important;
 }
 
 .navbar-nav .dropdown-menu {
-  background-color: white;
-  
-.navbar-nav .dropdown-item {
-  color: white !important;
-}
-
-.navbar-nav .dropdown-item:hover {
-  background-color: rgba(19, 64, 162, 0.7);
-}
-
+    background-color: white;
+    .navbar-nav .dropdown-item {
+        color: white !important;
+    }
+    .navbar-nav .dropdown-item:hover {
+        background-color: rgba(19, 64, 162, 0.7);
+    }
 }

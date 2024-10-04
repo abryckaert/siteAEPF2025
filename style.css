@@ -20,6 +20,7 @@ li{
   font-weight: 350;
   font-style: normal;
   padding-right: 1.5rem;
+  color: white;
 
 }
 
@@ -44,4 +45,22 @@ h3{
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+/* Style pour la navbar */
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .dropdown-menu {
+  background-color: white;
+  
+.navbar-nav .dropdown-item {
+  color: white !important;
+}
+
+.navbar-nav .dropdown-item:hover {
+  background-color: rgba(19, 64, 162, 0.7);
+}
+
 }
